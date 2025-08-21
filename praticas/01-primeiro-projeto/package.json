@@ -1,0 +1,20 @@
+{
+  "name": "01-primeiro-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irn64/construcao-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irn64/construcao-backend/issues"
+  },
+  "homepage": "https://github.com/irn64/construcao-backend#readme",
+  "description": ""
+}
