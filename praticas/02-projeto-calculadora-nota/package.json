@@ -1,0 +1,23 @@
+{
+  "name": "02-projeto-calculadora-nota",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irn64/construcao-backend.git"
+  },
+  "author": "Gabriel Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irn64/construcao-backend/issues"
+  },
+  "homepage": "https://github.com/irn64/construcao-backend#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
