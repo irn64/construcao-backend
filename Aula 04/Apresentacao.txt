@@ -1,7 +1,0 @@
-Iesb 
-
-Disciplina: Construção de Backend
-
-Turma: 2A
-
-Aluno: Gabriel Francisco de Oliveira Rodrigues
